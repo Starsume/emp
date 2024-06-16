@@ -1,2 +1,4 @@
 # emp
-EMP is the package manager for ecter
+EMP is the official package manager for ecter.
+
+##Installation
